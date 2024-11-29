@@ -68,7 +68,7 @@ Keep in mind that these rules and regulations are based on traditional Jewish la
 
 # Querying the Extended RAG System
 
-## The Prompt
+## The Query
 
 What are the differences between Shetukim and Asufim? And who was a Shetuki or an Asufi permitted to marry?
 
