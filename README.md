@@ -127,7 +127,6 @@ The differences between Shetuqim and Asufim mainly concern knowledge of parental
 - **Asufi** - Plural: Asufim. A child found on the street whose parents are unknown. Theoretically, they are allowed to marry, but the Rabbis imposed restrictions due to the lack of definitive information about their ancestry.
 - **Shetuqi** - Literally "silenced," "muted." One of the ten types of lineage: an individual of uncertain identity, whose mother is known, but whose father is not.
 - **Natin/Netina** - The Netinim are descendants of the Gibeonites (Ghiv'onim).
-- **There is a need** - This expression introduces the explanation in the Gemara as to why two seemingly redundant topics are discussed, explaining the differences and what is learned from each, and why they could not have been derived from one another.
 
 ## The Answer from RAG Using Llama with Glossaries
 
@@ -159,5 +158,3 @@ The glossary suggests that a Shetuqi can only marry converts (*Gherim*) and free
 - **Shetuqi** - Literally "silenced," "muted." One of the ten types of lineage: an individual of uncertain identity, whose mother is known, but whose father is not.
 
 - **Natin/Netina** - The *Netinim* are descendants of the Gibeonites (*Ghiv'onim*).
-
-- **There is a need** - This expression introduces the explanation in the Gemara as to why two seemingly redundant topics are discussed, explaining the differences and what is learned from each, and why they could not have been derived from one another.
