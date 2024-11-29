@@ -127,7 +127,7 @@ The differences between Shetuqim and Asufim mainly concern knowledge of parental
 - **Asufi** - Plural: Asufim. A child found on the street whose parents are unknown. Theoretically allowed to marry, but the Rabbis imposed restrictions in the absence of definitive ancestry data. However, the rules are more lenient if a couple acknowledges paternity. A child found already circumcised, carefully dressed, or placed in a public area where they could easily be found and cared for, is not considered an Asufi, and the aforementioned restrictions do not apply.
 
 - **Shetuqi** - Literally "silenced," "muted." One of the ten types of lineage: an individual of uncertain identity, whose mother is known but whose father is not. The name derives from the fact that, without a known father, the child calls every man "father," and the mother has to silence him. Their status is that of a "doubtful Mamzer" (mamzèr), and they are permitted to marry only converts (Gherim) and freed slaves. Abba Shaul called them Beduqim, meaning "the verified."
-- **Natin/Netina** - The Netinim are descendants of the Gibeonites (Ghiv'onim).
+- **Natin/Netina** - The Netinim are descendants of the Gibeonites (Ghiv’onim). According to Joshua 9, the Gibeonites were an indigenous population of Canaan who joined the Jewish people through deceit. Joshua swore an oath not to expel them but assigned them menial tasks (Joshua 9:27). In Talmud Bavli, Yevamot 78b, it is reported that King David issued a decree to keep them a separate class, forbidding them to marry Jews.
 
 ## The Answer from RAG Using Llama with Glossaries
 
@@ -158,4 +158,4 @@ The glossary suggests that a Shetuqi can only marry converts (*Gherim*) and free
 
 - **Shetuqi** - Literally "silenced," "muted." One of the ten types of lineage: an individual of uncertain identity, whose mother is known but whose father is not. The name derives from the fact that, without a known father, the child calls every man "father," and the mother has to silence him. Their status is that of a "doubtful Mamzer" (mamzèr), and they are permitted to marry only converts (Gherim) and freed slaves. Abba Shaul called them Beduqim, meaning "the verified."
 
-- **Natin/Netina** - The *Netinim* are descendants of the Gibeonites (*Ghiv'onim*).
+- **Natin/Netina** - The Netinim are descendants of the Gibeonites (Ghiv’onim). According to Joshua 9, the Gibeonites were an indigenous population of Canaan who joined the Jewish people through deceit. Joshua swore an oath not to expel them but assigned them menial tasks (Joshua 9:27). In Talmud Bavli, Yevamot 78b, it is reported that King David issued a decree to keep them a separate class, forbidding them to marry Jews.
