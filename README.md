@@ -3,7 +3,7 @@
 
 # Introduction
 
-This page presents the interactions conducted with the two LLMs under consideration, both in direct interactions and within the context of their use in the extended RAG architecture that was tested. Although the prompts were provided in Italian (as the experiment involved natural language querying of the Italian translation of the Babylonian Talmud), all interactions have been translated into English to facilitate the reading of the results. However, in the second part of the page, the original interactions are also included.
+This page presents the interactions conducted with the two LLMs under consideration, both in direct interactions and within the context of their use in the extended RAG architecture that was tested. Although the prompts were provided in Italian (as the experiment involved natural language querying of the Italian translation of the Babylonian Talmud), all interactions have been translated into English to facilitate the reading of the results.
 
 # Querying the LLMs Directly
 
