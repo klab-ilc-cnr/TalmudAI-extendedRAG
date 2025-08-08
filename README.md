@@ -4,7 +4,7 @@ This repository collects the tests conducted as part of the paper "*The discerni
 
 Although the prompts were provided in Italian (as the experiment involved natural language querying of the Italian translation of the Babylonian Talmud), all interactions have been translated into English to facilitate the reading of the results.
 
-- [running_example](https://github.com/klab-ilc-cnr/TalmudAI-extendedRAG/blob/main/runnnig_example.md): this is the main example illustrated in the article. It presents the interactions conducted with the two LLMs under consideration, both in direct interactions and within the context of their use in the extended RAG architecture that was tested;
+- [running_example](https://github.com/klab-ilc-cnr/TalmudAI-extendedRAG/blob/main/running_example.md): this is the main example illustrated in the article. It presents the interactions conducted with the two LLMs under consideration, both in direct interactions and within the context of their use in the extended RAG architecture that was tested;
 - [Q1](https://github.com/klab-ilc-cnr/TalmudAI-extendedRAG/blob/main/Q1.md): it presents the interactions for the question *What is semikha and how does it relate to the laying on of hands?*
 - [Q2](https://github.com/klab-ilc-cnr/TalmudAI-extendedRAG/blob/main/Q2.md): it presents the interactions for the question *What does Chamàs mean?*
 - [Q3](https://github.com/klab-ilc-cnr/TalmudAI-extendedRAG/blob/main/Q3.md): it presents the interactions for the question *How can a woman be acquired?*
